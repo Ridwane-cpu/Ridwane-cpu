@@ -28,7 +28,7 @@
 Je m'appelle **Rimomo**, passionné d'informatique et de cybersécurité.<br><br>
 
 🎓 J'ai complété un **Bac Pro Systèmes Numériques** en France.<br>
-🎓 Je poursuis actuellement un **DEC en Techniques de l'informatique** au Cégep de Rivière-du-Loup (Québec).<br><br>
+🎓 Je poursuis actuellement un **DEC en Techniques de l'informatique** au Cégep.<br><br>
 
 💻 J’ai travaillé sur plusieurs projets en développement logiciel, web et cybersécurité.<br>
 🛡️ Je m'entraîne activement sur des plateformes comme **TryHackMe**, **BurpSuite**, **PortSwigger Academy** pour renforcer mes compétences en sécurité web.<br><br>
