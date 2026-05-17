@@ -25,7 +25,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Je m'appelle **Rimomo**, passionné d'informatique et de cybersécurité.<br><br>
+Je m'appelle Ridwane, passionné d'informatique et de cybersécurité.<br><br>
 
 🎓 J'ai complété un **Bac Pro Systèmes Numériques** en France.<br>
 🎓 Je poursuis actuellement un **DEC en Techniques de l'informatique** au Cégep.<br><br>
